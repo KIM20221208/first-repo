@@ -1,4 +1,5 @@
 #include "stdio.h"
+#include "Warrior.h"
 
 int main(void)
 {
