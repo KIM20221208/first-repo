@@ -1,7 +1,7 @@
 #include "stdio.h"
 #include "Warrior.h"
 
-int main(void)
+int MAIN(void)
 {
     /** Now, it is a perfect version */
     
